@@ -1,4 +1,4 @@
-# functional-Caulcator
+# Functional Calculator
 A basic calculator using functional javascript programming
 
 # Usage
