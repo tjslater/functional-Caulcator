@@ -52,5 +52,5 @@
   Calculator.prototype.divide = divide;
   Calculator.prototype.exponent = exponent;
 
-  window.fCalc = Calculator;
+  window.FCalc = Calculator;
 })();
